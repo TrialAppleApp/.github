@@ -1,0 +1,1 @@
+Lead developer: [TrialMacApp](https://github.com/TrialMacApp)
